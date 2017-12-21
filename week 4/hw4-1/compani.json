@@ -1,0 +1,313 @@
+{
+	"funding_rounds" : [
+		{
+			"id" : 2,
+			"round_code" : "angel",
+			"source_url" : "",
+			"source_description" : "",
+			"raised_amount" : 500000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2004,
+			"funded_month" : 9,
+			"funded_day" : 1,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Peter",
+						"last_name" : "Thiel",
+						"permalink" : "peter-thiel"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Reid",
+						"last_name" : "Hoffman",
+						"permalink" : "reid-hoffman"
+					}
+				}
+			]
+		},
+		{
+			"id" : 3,
+			"round_code" : "a",
+			"source_url" : "http://www.techcrunch.com/2007/11/02/jim-breyer-extra-500-million-round-for-facebook-a-total-fiction/",
+			"source_description" : "Jim Breyer: Extra $500 Million Round For Facebook A \"Total Fiction\"",
+			"raised_amount" : 12700000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2005,
+			"funded_month" : 5,
+			"funded_day" : 1,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Accel Partners",
+						"permalink" : "accel-partners"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Mark",
+						"last_name" : "Pincus",
+						"permalink" : "mark-pincus"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Reid",
+						"last_name" : "Hoffman",
+						"permalink" : "reid-hoffman"
+					}
+				}
+			]
+		},
+		{
+			"id" : 4,
+			"round_code" : "b",
+			"source_url" : "http://www.facebook.com/press/info.php?factsheet",
+			"source_description" : "Facebook Funding",
+			"raised_amount" : 27500000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2006,
+			"funded_month" : 4,
+			"funded_day" : 1,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Greylock Partners",
+						"permalink" : "greylock"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Meritech Capital Partners",
+						"permalink" : "meritech-capital-partners"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Founders Fund",
+						"permalink" : "founders-fund"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "SV Angel",
+						"permalink" : "sv-angel"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 798,
+			"round_code" : "c",
+			"source_url" : "http://www.microsoft.com/en-us/news/press/2007/oct07/10-24FacebookPR.aspx",
+			"source_description" : "Facebook and Microsoft Expand Strategic Alliance",
+			"raised_amount" : 240000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2007,
+			"funded_month" : 10,
+			"funded_day" : 24,
+			"investments" : [
+				{
+					"company" : {
+						"name" : "Microsoft",
+						"permalink" : "microsoft"
+					},
+					"financial_org" : null,
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 1894,
+			"round_code" : "c",
+			"source_url" : "http://venturebeat.com/2007/11/30/facebook-gets-60m-from-hong-kong-billionaire-li-ka-shing/",
+			"source_description" : "Facebook gets $60M from Hong Kong billionaire Li Ka-shing",
+			"raised_amount" : 60000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2007,
+			"funded_month" : 11,
+			"funded_day" : 30,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Li",
+						"last_name" : "Ka-shing",
+						"permalink" : "li-ka-shing"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Horizons Ventures",
+						"permalink" : "horizons-ventures"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 2197,
+			"round_code" : "c",
+			"source_url" : "http://www.techcrunch.com/2008/01/15/breaking-samwer-brothers-invest-in-facebook/",
+			"source_description" : "",
+			"raised_amount" : 15000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2008,
+			"funded_month" : 1,
+			"funded_day" : 15,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "European Founders Fund",
+						"permalink" : "european-founders-fund"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 2225,
+			"round_code" : "debt_round",
+			"source_url" : "http://www.businessweek.com/technology/content/may2008/tc2008059_855064.htm",
+			"source_description" : "",
+			"raised_amount" : 100000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2008,
+			"funded_month" : 5,
+			"funded_day" : 1,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "TriplePoint Capital",
+						"permalink" : "triplepoint-capital"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 4587,
+			"round_code" : "c",
+			"source_url" : "http://www.paidcontent.org/entry/419-facebook-investor-li-ka-shing-increasing-stake-in-facebook/",
+			"source_description" : "Updated: Facebook Investor Li Ka-Shing Upping Stake To $120 Million: Report",
+			"raised_amount" : 60000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2008,
+			"funded_month" : 3,
+			"funded_day" : 27,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : null,
+					"person" : {
+						"first_name" : "Li",
+						"last_name" : "Ka-shing",
+						"permalink" : "li-ka-shing"
+					}
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Horizons Ventures",
+						"permalink" : "horizons-ventures"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 6133,
+			"round_code" : "d",
+			"source_url" : "http://www.techcrunch.com/2009/05/26/facebook-takes-that-200-million-investment-from-the-russians-at-a-10-billion-valuation/",
+			"source_description" : "Facebook Takes That $200 Million Investment From The Russians At A $10 Billion Valuation.",
+			"raised_amount" : 200000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2009,
+			"funded_month" : 5,
+			"funded_day" : 26,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Digital Sky Technologies",
+						"permalink" : "digital-sky-technologies-fo"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 16477,
+			"round_code" : "unattributed",
+			"source_url" : "http://techcrunch.com/2010/06/28/elevation-invests-another-120-million-in-facebook-as-that-ipo-looks-more-distant/",
+			"source_description" : "Elevation Invests Another $120 Million in Facebook as that IPO Looks More Distant",
+			"raised_amount" : 210000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2010,
+			"funded_month" : 6,
+			"funded_day" : 28,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Elevation Partners",
+						"permalink" : "elevation-partners"
+					},
+					"person" : null
+				}
+			]
+		},
+		{
+			"id" : 21081,
+			"round_code" : "unattributed",
+			"source_url" : "http://www.prnewswire.com/news-releases/facebook-raises-15-billion-114383494.html",
+			"source_description" : "Facebook Raises $1.5 Billion",
+			"raised_amount" : 1500000000,
+			"raised_currency_code" : "USD",
+			"funded_year" : 2011,
+			"funded_month" : 1,
+			"funded_day" : 21,
+			"investments" : [
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Goldman Sachs",
+						"permalink" : "goldman-sachs"
+					},
+					"person" : null
+				},
+				{
+					"company" : null,
+					"financial_org" : {
+						"name" : "Digital Sky Technologies",
+						"permalink" : "digital-sky-technologies-fo"
+					},
+					"person" : null
+				}
+			]
+		}
+	]
+}
